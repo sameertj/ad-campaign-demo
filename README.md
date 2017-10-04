@@ -2,7 +2,7 @@
 
 A) Compiling and Running
 
-	Run the following command in project root where project root is /advertising_campaign
+	Run the following command in project root.
 
 		 mvn package && java -jar target/advert_campaign-0.0.1-SNAPSHOT.jar
 

@@ -24,17 +24,6 @@ public class UserRest {
 
     @RequestMapping(value = "/{userId}",method = RequestMethod.GET)
         User getUser(@PathVariable String userId) {
-        //this.validateUser(userId);
-//        Optional<User> users = Optional.ofNullable(userRepository.findByUserId(userId));
-//        if(users.isPresent()){
-//            users.map((e->{
-//                System.out.println("in user rest......");
-//                System.out.println(e.getUserId());
-//                return e;
-//            }
-//            ));
-//
-//        }
         return userRepository.findByUserId(userId);
     }
 

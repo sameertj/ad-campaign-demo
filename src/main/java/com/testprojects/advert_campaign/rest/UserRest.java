@@ -29,7 +29,6 @@ public class UserRest {
 
     @RequestMapping(value = "/all",method = RequestMethod.GET)
     List<User> getAllUsers() {
-        //this.validateUser(userId);
         return userRepository.findAll();
     }
 

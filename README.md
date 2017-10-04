@@ -72,7 +72,7 @@ C) Operations
 
 			http://localhost:8080/ad/current/user2
 
-D) TEST CASES
+D) Test Cases
 
 		Intial data set up is the storing for some users and associated campaign data into the tables.
 

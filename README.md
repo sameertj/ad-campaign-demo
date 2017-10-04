@@ -74,7 +74,7 @@ C) Operations
 
 D) Test Cases
 
-		Intial data set up is the storing for some users and associated campaign data into the tables.
+		Initial data set up is the storing for some users and associated campaign data into the tables.
 
 		TEST CASE 1
 

@@ -109,7 +109,7 @@ F) Advantages and disadvantages of the Persistence mechanism.
 		
 			a) Don't have much visbility into database operations.
 			b) May not be able use certain database features since they may not be available through JPA
-			c) More layers means there is some degrading of performance. 
+			c) More layers mean there is some degrading of performance. 
 
 
 
